@@ -16,6 +16,7 @@ namespace Auth0.AuthenticationApi
         /// <summary>
         /// Base URI that will be used for all the requests.
         /// </summary>
+        
         Uri BaseUri { get; }
 
         /// <summary>
